@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Creative UI/UX Designer | Front-End Developer
+#c5f015 Creative UI/UX Designer | Front-End Developer
 
 <span style="color:#fff; font-family: 'Roboto'; font-size: 5em;">I am a passionate creative with a strong affinity for art and design, specializing in UI/UX design. With a keen eye for aesthetics and a deep sense of empathy for user needs, I excel in creating intuitive and engaging user interfaces. My love for front-end development allows me to transform wireframes into fully realized products, ensuring a seamless user experience.
 
