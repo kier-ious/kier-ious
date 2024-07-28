@@ -29,7 +29,7 @@ I thrive in collaborative environments and enjoy working within teams to bring i
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kier-ious&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kier-ious&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kier-ious&hide_border=true&show_icons=true&bg_color=ffffff&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=333333)
