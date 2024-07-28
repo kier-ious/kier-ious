@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Creative%20UI/UX%20Designer%20|%20Front-End%20Developer&fontSize=37)
-
 ## About Me
 
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-green?style=for-the-badge&logo=adobe)
