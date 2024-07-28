@@ -1,14 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Creative%20UI/UX%20Designer%20|%20Front-End%20Developer&fontSize=37)
 
-![Bio Part 1](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=I%20am%20a%20passionate%20creative%20with%20a%20strong%20affinity%20for%20art%20and%20design,%20specializing%20in%20UI/UX%20design.&fontSize=24)
-![Bio Part 2](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=With%20a%20keen%20eye%20for%20aesthetics%20and%20a%20deep%20sense%20of%20empathy%20for%20user%20needs,%20I%20excel%20in%20creating%20intuitive%20and%20engaging%20user%20interfaces.&fontSize=24)
+## About Me
 
+![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-green?style=for-the-badge&logo=adobe)
+![Front-End Developer](https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge&logo=react)
 
-<span style="color: green; font-family: 'Roboto'; font-size: 5em;">
 I am a passionate creative with a strong affinity for art and design, specializing in UI/UX design. With a keen eye for aesthetics and a deep sense of empathy for user needs, I excel in creating intuitive and engaging user interfaces. My love for front-end development allows me to transform wireframes into fully realized products, ensuring a seamless user experience.
 
-I thrive in collaborative environments and enjoy working within teams to bring innovative ideas to life. My agile learning mindset and enthusiastic approach enable me to contribute positively to any design team. I’m committed to continuous learning and bringing a fun, upbeat energy to my projects
-</span>
+I thrive in collaborative environments and enjoy working within teams to bring innovative ideas to life. My agile learning mindset and enthusiastic approach enable me to contribute positively to any design team. I’m committed to continuous learning and bringing a fun, upbeat energy to my projects.
 
 <h3>When I code, I rely on</h3>
 <p>
