@@ -1,5 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Creative%20UI/UX%20Designer%20|%20Front-End%20Developer&fontSize=37)
 
+![Bio Part 1](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=I%20am%20a%20passionate%20creative%20with%20a%20strong%20affinity%20for%20art%20and%20design,%20specializing%20in%20UI/UX%20design.&fontSize=24)
+![Bio Part 2](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=With%20a%20keen%20eye%20for%20aesthetics%20and%20a%20deep%20sense%20of%20empathy%20for%20user%20needs,%20I%20excel%20in%20creating%20intuitive%20and%20engaging%20user%20interfaces.&fontSize=24)
+
+
 <span style="color: green; font-family: 'Roboto'; font-size: 5em;">
 I am a passionate creative with a strong affinity for art and design, specializing in UI/UX design. With a keen eye for aesthetics and a deep sense of empathy for user needs, I excel in creating intuitive and engaging user interfaces. My love for front-end development allows me to transform wireframes into fully realized products, ensuring a seamless user experience.
 
