@@ -1,5 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Creative%20UI/UX%20Designer%20|%20Front-End%20Developer&fontSize=37)
-## About Me
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Creative%20UI/UX%20Designer%20|%20Front-End%20Developer&fontSize=37)
+## About Me](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=UI/UX%20%20Designer%20|%20Full%20Stack%20Developer&fontSize=45&descAlign=13&reversal=true&textBg=false&fontColor=ffffff&animation=fadeIn)
 
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-green?style=for-the-badge&logo=adobe)
 ![Front-End Developer](https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge&logo=react)
