@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=87c38f&text=UI/UX%20Designer%20|%20Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![Header]([https://capsule-render.vercel.app/api?type=waving&height=250&color=87c38f&text=UI/UX%20Designer%20|%20Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=300&color=87c38f&text=UI/UX%20Design%20|%20Software%20Engineer&fontSize=50&textBg=false&fontColor=ffffff&animation=fadeIn))
 
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-green?style=for-the-badge&logo=adobe)
 ![Software Engineer](https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge&logo=react)
