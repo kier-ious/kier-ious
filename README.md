@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=87c38f&text=UI/UX%20Designer%20|%20Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Designer-green?style=for-the-badge&logo=adobe)
-![Front-End Developer](https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge&logo=react)
+![Software Engineer](https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge&logo=react)
 
 <span style="color: green; font-family: 'Roboto'; font-size: 1.2em;">
 I am a passionate creative with a strong affinity for art and design, specializing in UI/UX design. With a keen eye for aesthetics and a deep sense of empathy for user needs, I excel in creating intuitive and engaging user interfaces. My love for front-end development allows me to transform wireframes into fully realized products, ensuring a seamless user experience.
